@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "snc-route-map": {
+	        "innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "Route Map",
+				"icon": "document-outline",
+				"description": "A map of a route",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_snc_route_map"
+}
